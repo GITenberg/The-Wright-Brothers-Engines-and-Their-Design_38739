@@ -1,0 +1,30 @@
+_repo: The-Wright-Brothers-Engines-and-Their-Design_38739
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hobbs, Leonard S.
+    alias: Hobbs, Luke
+    birthdate: 1896
+    deathdate: 1977
+    gutenberg_agent_id: '39635'
+    url: http://www.gutenberg.org/2009/agents/39635
+description: ''
+gutenberg_issued: '2012-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38739'
+  lccn: '78614968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wright, Wilbur, 1867-1912'
+- !lcsh 'Airplanes -- Motors -- History'
+- !lcsh 'Wright, Orville, 1871-1948'
+- !lcc 'TL'
+title: The Wright Brothers' Engines and Their Design
+url: http://www.gutenberg.org/ebooks/38739
